@@ -241,6 +241,7 @@ namespace FormApp
             {
                 textBox1.Text = textBox1.Text + ".";
             }
+            isReset = false;
         }
     }
 }
